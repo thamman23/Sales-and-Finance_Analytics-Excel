@@ -52,7 +52,7 @@ Handling the duplicates, etc.
 *⏩Information:*
 
 1. Sales Performance report : Will help to undesrstand the Net sales across diffrent customers over the period of time.
-<img width="226" alt="Customer Net Sales Performance" src="https://github.com/hgvinayak/Advanced-Excel-Sales-and-Finance_Analytics/assets/144557548/77d9bccb-f1c4-470b-afce-64d0c82c47b6">
+<img width="226" alt="Customer Net Sales Performance" src="347479775-77d9bccb-f1c4-470b-afce-64d0c82c47b6.png">
 
   2. Finance Report or P&L report: It is the Fundamental insights of the company which helps to understand the important KPI parameters like Profit, Net sales,
 				Cost of Goods sold (COGS), Gross margin.

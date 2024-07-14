@@ -56,4 +56,4 @@ Handling the duplicates, etc.
 
   2. Finance Report or P&L report: It is the Fundamental insights of the company which helps to understand the important KPI parameters like Profit, Net sales,
 				Cost of Goods sold (COGS), Gross margin.
-    <img width="568" alt="P L report by Fiscal Year" src="https://github.com/hgvinayak/Advanced-Excel-Sales-and-Finance_Analytics/assets/144557548/28ab84df-3469-474a-a2c8-11cd78487147">
+    <img width="568" alt="P L report by Fiscal Year" src="347480290-28ab84df-3469-474a-a2c8-11cd78487147.png">
